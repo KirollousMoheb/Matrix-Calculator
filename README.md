@@ -1,2 +1,2 @@
-# Mat
+# Matrix Calculator
  
