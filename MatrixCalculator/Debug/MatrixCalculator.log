@@ -1,0 +1,5 @@
+﻿  maincpp.cpp
+  matrixfunction.cpp
+C:\Users\koko\Desktop\CSE-131-Submission\MatrixCalculator\MatrixCalculator\matrixfunction.cpp(82,28): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  MatrixCalculator.vcxproj -> C:\Users\koko\Desktop\CSE-131-Submission\MatrixCalculator\Debug\MatrixCalculator.exe

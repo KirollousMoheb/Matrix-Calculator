@@ -1,0 +1,8 @@
+﻿  matrixfunction.cpp
+A:\Researches\CSE-131-Submission\CSE-131-FinalSubmission\Visual Studio Files\MatrixCalculator\matrixfunction.cpp(11,38): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+A:\Researches\CSE-131-Submission\CSE-131-FinalSubmission\Visual Studio Files\MatrixCalculator\matrixfunction.cpp(44,33): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+A:\Researches\CSE-131-Submission\CSE-131-FinalSubmission\Visual Studio Files\MatrixCalculator\matrixfunction.cpp(74,39): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+A:\Researches\CSE-131-Submission\CSE-131-FinalSubmission\Visual Studio Files\MatrixCalculator\matrixfunction.cpp(85,41): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+A:\Researches\CSE-131-Submission\CSE-131-FinalSubmission\Visual Studio Files\MatrixCalculator\matrixfunction.cpp(88,21): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+A:\Researches\CSE-131-Submission\CSE-131-FinalSubmission\Visual Studio Files\MatrixCalculator\matrixfunction.cpp(290,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  MatrixCalculator.vcxproj -> A:\Researches\CSE-131-Submission\CSE-131-FinalSubmission\Visual Studio Files\x64\Debug\MatrixCalculator.exe
